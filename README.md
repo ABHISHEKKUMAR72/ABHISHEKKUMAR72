@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ABHISHEKKUMAR72
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 📊 Github Stats
 
-<!---
-ABHISHEKKUMAR72/ABHISHEKKUMAR72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/ABHISHEKKUMAR72/github-readme-stats">
+  <img height=180 align="center" src="https://abhishek-github-stats.vercel.app/api?username=ABHISHEKKUMAR72 &show_icons=true&include_all_commits=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/ABHISHEKKUMAR72/convoychat">
+  <img height=180 align="center" src="https://abhishek-github-stats.vercel.app/api/top-langs/?username=ABHISHEKKUMAR72&layout=compact&langs_count=8&theme=ambient_gradient" />
+</a>
